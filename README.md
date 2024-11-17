@@ -15,3 +15,4 @@ Git Exercise 2
 In order to advance with this project we are going to be using HTML and CSS.
 
 Once we are done with the website attached to this project, all you need to do to open it would be opening the HTML file you'll find inside the repository.
+You could also check it on the following URL: https://libertovv.github.io/Exercise_Unit5_website/
